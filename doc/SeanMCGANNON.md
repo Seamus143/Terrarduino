@@ -1,13 +1,12 @@
 Arduino project:
 Terrarduino
+
 Mon équipe de travail est composé de moi-même (MCGANNON Sean), VAUJANY Alexandre et TOGNAN Antonin.
 
 Séance du 20 Décembre 2017:
-Dans cette première séance, j'ai formé mon groupe avec MCGANNON Sean et VAUJANY Alexandre.
+Dans cette première séance, après avoir créer notre trinôme, nous nous sommes mis d'accord de faire un projet en rapport avec les animaux et la vie en général : le Terranium autonome.
 
-Nous nous sommes mis d'accord avec mon équipe pour faire un projet autour des animaux et des plantes.
-
-Donc, notre projet d'arduino que nous allons réaliser tout au long du second semestre portera sur un terrarium connecté, le terrarduino.
+Grâce à ce projet, nous spéculons que nous apprendrons éniormement de choses sur les animaux cibles de nos recherches, le travail d'équipe et autonome, entre-autres.
 
 Terrarium
 
